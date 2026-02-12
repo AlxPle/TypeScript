@@ -1,0 +1,2 @@
+# TypeScript
+Learning plan TypeScript
